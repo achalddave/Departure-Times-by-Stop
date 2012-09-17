@@ -6,7 +6,7 @@ id from the 511 API.
 ## Server Setup
 
 1. Copy `myConf-template.js` to `myConf.js` and fill it with the required info.
-2. Run the server with `node server.js`4
+2. Run the server with `node server.js`
 
 ## Usage
 
