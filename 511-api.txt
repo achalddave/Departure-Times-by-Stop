@@ -1,0 +1,6 @@
+7a29a79c-1e2d-4b75-9a9c-a91b00a5da1b 
+
+real time: 7a29a79c-1e2d-4b75-9a9c-a91b00a5da1b 
+
+http://services.my511.org/Transit2.0/GetNextDeparturesByStopName.aspx?token=123-456-
+789&agencyName&stopName
